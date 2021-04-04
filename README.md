@@ -12,7 +12,7 @@ Please :star: this repo to help us improve the quality.
 or!
 * Octave Software (I used this!)
 
-##difference-between-matlab-and-octave
+## difference-between-matlab-and-octave
 
 **MATLAB: **
 MATLAB is a multi-paradigm numerical computing environment and a high-performance language that is used for technical computing. The name MATLAB stands for matrix laboratory. It was developed by Cleve Molar of the company MathWorks.Inc in the year 1984. It is written in C, C++, Java. It allows matrix manipulations, plotting of functions, implementation of algorithms and creation of user interfaces.
