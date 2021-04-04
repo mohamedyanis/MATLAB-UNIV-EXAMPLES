@@ -3,6 +3,7 @@
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
 
 This repository contains some MATLAB examples and exercises of my university lab (University Of Boumerdes, Algeria), as well as the MATLAB documentation.<br>
+Read This <a href="https://github.com/mohamedyanis/MATLAB-UNIV-EXAMPLES/blob/master/Exercises/Exo%20Explaination.md">README file </a> to understand the examples.
 
 ## Thank _You_!
 Please :star: this repo to help us improve the quality.
@@ -32,7 +33,7 @@ Octave is software featuring a high-level programming language, primarily intend
 | 07 | It does not support C-style auto-increment and assignment operators i.e  x++, ++x, etc. | It  supports C-style auto-increment and assignment operators i.e  x++, ++x, etc. |
 | 08 | The execution speed is faster than Octave. | The execution speed is slower than MATLAB.|
 
-Thanks to <a href="https://www.geeksforgeeks.org/">https://www.geeksforgeeks.org/<a> for the details.
+Thanks to <a href="https://www.geeksforgeeks.org/">https://www.geeksforgeeks.org/</a> for the details.
 
 
 ## Contributing 💡
