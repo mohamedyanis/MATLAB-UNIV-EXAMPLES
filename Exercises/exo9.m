@@ -10,12 +10,39 @@
 %@medyanis_hiou
 
 %###########################################################
-
+% First Methode:
 
 prompt = 'Enter a string: ';
 str = input (prompt, "s");
 d = count(str, "a");
 fprintf('Your string has %d "A"', d);
 
+%#####end of program 1
 
-%#####end of program
+
+
+%###########################################################
+% Seconde Methode: (By Ahmed Bentaleb: https://github.com/bentalebahmed)
+
+import mlreportgen.dom.*;
+
+test = "hello world!";
+
+list = Document('List','html');
+
+n = 0;
+
+for i in test
+append(list, i);
+end
+
+close(list);
+
+for j in list
+if strcmp(j,'o')
+n = n +1;
+end
+end
+print(n);
+
+%#####end of program 2
