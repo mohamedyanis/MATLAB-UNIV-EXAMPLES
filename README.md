@@ -22,7 +22,7 @@ Octave is software featuring a high-level programming language, primarily intend
 
 
 | n° | MATLAB  | Octave |
-| :------------- | :-------------: | :-------------: |
+| :-------------: | :-------------: | :-------------: |
 | 01 | MATLAB is a matrix laboratory, referred to as language used for technical computations.  | Octave is programming language used for numerical computations.  |
 | 02 | It was written in C, C++ and Java programming language.  | It was written in C, C++ and Fortran Language.  |
 | 03 | It is not an open source language. | It is an open source language. |
