@@ -1,6 +1,6 @@
 %###########################################################
 
-%exo 5
+%exo 7
 %Determine whether an integer X is prime or not
 %by Mohamed Yanis Hiou
 %Automation L2, Group 2
@@ -12,20 +12,20 @@
 %###########################################################
 
 
-n = input('Pleaase Enter A Number: ');
+n = input('Please Enter A Number: ');
 if n > 1
-  for i=2:fix(n/2)         %#### the 'fix()' function give us the integer part!
-    if rem(n,i) == 0       %#### the 'rem()' function give us the rest part of the division!
-      fprintf("The number %d is not a prime number", n);
+  for i=2:fix(n/2)                                       %#### the 'fix()' function give us the integer part!
+    if rem(n,i) == 0                                     %#### the 'rem()' function give us the rest part of the division!
+      fprintf('The number %d is not a prime number\n', n);
       break;
     else
-      fprintf("The number %d is a prime number", n);
+      fprintf('The number %d is a prime number\n', n);
       break;
     end
   end
   
 else
-  fprintf("The number %d is not a prime number", n);
+  fprintf('The number %d is not a prime number\n', n);
 end
 
 %##### end of program
