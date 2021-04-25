@@ -23,4 +23,4 @@ end
 fprintf('The product of A and B is: %d', x);
 
 
-%##### end of program
+%##### end of program!
