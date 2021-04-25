@@ -18,8 +18,8 @@ for i = 1:n
    sum = sum + i;
 end
 
-fprintf('The sum is: %d',sum);
+fprintf('The sum is: %d\n',sum);
 
 
 
-%#####end of program
+%#####end of program!
