@@ -15,6 +15,6 @@
 A = [-20;1;44;2;47;32;3;4;20;7;10;19;15];    %this is a random list
 
 fprintf('The maximum value of the "A" set is: %d\n',max(A));
-fprintf('The minimum value of the "A" set is: %d',min(A));
+fprintf('The minimum value of the "A" set is: %d\n',min(A));
 
-%##### end of program
+%##### end of program!
